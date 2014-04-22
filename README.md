@@ -6,10 +6,10 @@ Android application which allows sending SMS, with a specific SMSC without chang
 The SMSC number is respecting the E.164 format address (E.g: +33612345678)
 
 From example some French public SMSCs:
-Orange    +33689004000
-SFR       +33609001390
-Bouygues  +33660003000
-Free      +33695000695
+* Orange    +33689004000
+* SFR       +33609001390
+* Bouygues  +33660003000
+* Free      +33695000695
 
 Public lists of SMSC:
 * http://smsclist.com/downloads/SMSCList.txt
