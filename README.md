@@ -1,5 +1,5 @@
-sms_smsc
-========
+SMS SMSC Android App
+====================
 
 Android application which allows sending SMS, with a specific SMSC without changing system defaults.
 
