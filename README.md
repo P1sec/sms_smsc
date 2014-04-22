@@ -12,5 +12,5 @@ Bouygues  +33660003000
 Free      +33695000695
 
 Public lists of SMSC:
-http://smsclist.com/downloads/SMSCList.txt
-http://www.ozekisms.com/n/index.php?owpn=370&info=g---smsc-settings/smsc-list-v2
+* http://smsclist.com/downloads/SMSCList.txt
+* http://www.ozekisms.com/n/index.php?owpn=370&info=g---smsc-settings/smsc-list-v2
