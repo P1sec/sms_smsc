@@ -19,3 +19,10 @@ Code is an export of Android Studio projet:
 * https://developer.android.com/sdk/installing/studio.html
 
 Really simple to use it with your Android phone in debbug mode.
+
+Apk is available on top directory or by following theses steps:
+
+In Android Studio menu bar:
+Run > Run 'app' or Shift+F10
+
+Go for your repo sms_smsc/app/build/apk/
