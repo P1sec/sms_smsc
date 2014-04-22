@@ -15,12 +15,12 @@ Public lists of SMSC:
 * http://smsclist.com/downloads/SMSCList.txt
 * http://www.ozekisms.com/n/index.php?owpn=370&info=g---smsc-settings/smsc-list-v2
 
+### Developpement
+
 Code is an export of Android Studio projet:
 * https://developer.android.com/sdk/installing/studio.html
 
 Really simple to use it with your Android phone in debbug mode.
-
-### Developpement
 
 Apk is available on top directory or by following theses steps:
 
