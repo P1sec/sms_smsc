@@ -20,7 +20,7 @@ Code is an export of Android Studio projet:
 
 Really simple to use it with your Android phone in debbug mode.
 
-# Developpement
+### Developpement
 
 Apk is available on top directory or by following theses steps:
 
