@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComAndroidSupportAppcompatV71910.aar" >
+        <source path="/mnt/localdd/Dropbox/sms_smsc/app/build/exploded-bundles/ComAndroidSupportAppcompatV71910.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/mnt/localdd/Dropbox/sms_smsc/app/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/mnt/localdd/Dropbox/sms_smsc/app/src/debug/assets" />
+    </dataSet>
+
+</merger>
