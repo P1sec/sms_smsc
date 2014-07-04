@@ -27,4 +27,4 @@ Apk is available on top directory or by following theses steps:
 In Android Studio menu bar:
 Run > Run 'app' or Shift+F10
 
-Go for your repo sms_smsc/app/build/apk/
+Apk is located in sms_smsc/app/build/apk/
